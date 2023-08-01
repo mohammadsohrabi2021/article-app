@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "id": 6,
+      "title": "عنوان مقاله ششم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "image": "https://dl.next1code.ir/images/react/article6.webp",
+      "readingTime": 5,
+      "category": "هوش مصنوعی",
+      "writter": "محمد سهرابی"
+    },
+    {
+      "id": 7,
+      "title": "عنوان مقاله هفتم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "image": "https://dl.next1code.ir/images/react/article7.webp",
+      "readingTime": "10",
+      "category": "هوش مصنوعی",
+      "writter": "محمد سهرابی"
+    },
+    {
+      "id": 8,
+      "title": "عنوان مقاله هشتم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "image": "https://dl.next1code.ir/images/react/article8.webp",
+      "readingTime": 6,
+      "category": "هوش مصنوعی",
+      "writter": "محمد سهرابی"
+    }
+  ]
+}
