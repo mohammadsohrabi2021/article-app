@@ -1,0 +1,27 @@
+.card{
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all0.5s;
+}
+.card:hover{
+    scale: 1.05;
+}
+.card-text{
+    text-align: justify;
+    color: #5d5c5c;
+    font-size: 16px;
+}
+.read-more span{
+    margin-left: 5px;
+}
+.read-more:hover{
+    cursor: pointer;
+    color: #f54980;
+}
+.card-footer{
+    color: #666 !important;
+}
+.card a{
+    text-decoration: none;
+    color: #484848;
+}
